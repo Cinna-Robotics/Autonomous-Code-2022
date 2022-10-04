@@ -53,7 +53,7 @@ public class _2022AutonomousBlue extends LinearOpMode {
     rightBACK = hardwareMap.get(DcMotor.class, "rightBACK");
     leftCARASOUL = hardwareMap.get(DcMotor.class, "leftCARASOUL");
 
-    // Put initialization blocks here.
+    // Put initialization blocks here .
     waitForStart();
     if (opModeIsActive()) {
       // Put run blocks here.
